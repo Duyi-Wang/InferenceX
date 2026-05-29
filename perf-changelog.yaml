@@ -3208,3 +3208,9 @@
     - "1k1k and 8k1k STP hightpt and lowlat srt-slurm recipes under benchmarks/multi_node/srt-slurm-recipes/sglang/glm5/gb300-fp8/ (resolved from upstream srt-slurm PR #160 via srtctl resolve-override)"
     - "Wire glm5/fp8 model + dynamo-sglang framework branches into runners/launch_gb300-nv.sh with SA upstream defaults (SLURM_PARTITION=batch_1, SLURM_ACCOUNT=benchmark, SQUASH_FILE under /home/sa-shared/gharunners/squash/)"
   pr-link: https://github.com/SemiAnalysisAI/InferenceX/pull/1557
+
+- config-keys:
+    - dsv4-fp4-b200-vllm
+  description:
+    - "Update vLLM image tag to v0.22.0"
+  pr-link: https://github.com/SemiAnalysisAI/InferenceX/pull/1384
