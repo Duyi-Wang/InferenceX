@@ -1,6 +1,6 @@
 # PR Review Checklist
 
-When engineers from the respective hardware AI chip company is reviewing & approving an PR, please fill in the following form in your approval comment before pinging an core maintainer for final approval
+When [CODEOWNER](https://github.com/SemiAnalysisAI/InferenceX/blob/main/.github/CODEOWNERS) from the respective hardware AI chip company is reviewing & approving their respective PRs, please fill in the following form in your approval comment before pinging an core maintainer for final approval
 
 ## Template
 
